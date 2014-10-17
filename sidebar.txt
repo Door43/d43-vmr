@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vmr:home|Door43 (vmr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vmr|d43-vmr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vmr/archive/master.zip|d43-vmr.zip]]
+
+**Recent Changes**
+{{changes>ns = vmr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vmr|Ethnologue data]]
+
